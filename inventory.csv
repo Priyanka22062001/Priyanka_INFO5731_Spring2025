@@ -1,0 +1,52 @@
+Product ID,Product Name,Category,Stock,Price
+P001,Smartphone,Mobile Devices,15,799.99
+P002,Laptop,Computers,10,1200
+P003,Tablet,Mobile Devices,20,500
+P004,Smartwatch,Wearables,25,299.99
+P005,Bluetooth Speaker,Audio Devices,30,150
+P006,Gaming Console,Gaming,8,499.99
+P007,Wireless Earbuds,Audio Devices,50,199.99
+P008,Desktop Computer,Computers,5,1500
+P009,Monitor,Accessories,12,300
+P010,Mechanical Keyboard,Accessories,18,120
+P011,Wireless Mouse,Accessories,22,60
+P012,VR Headset,Gaming,7,350
+P013,External Hard Drive,Storage Devices,40,110
+P014,Portable Charger,Accessories,35,40
+P015,Smart Home Hub,Smart Devices,13,250
+P016,4K TV,Home Entertainment,6,900
+P017,Digital Camera,Cameras,9,650
+P018,Fitness Tracker,Wearables,20,180
+P019,Drone,Cameras,5,1000
+P020,E-Reader,Mobile Devices,14,130
+P021,Router,Networking,25,75
+P022,Smart Door Lock,Smart Devices,18,200
+P023,Electric Scooter,Transport,7,550
+P024,Security Camera,Security,12,320
+P025,Microwave Oven,Home Appliances,8,250
+P026,Air Purifier,Home Appliances,10,400
+P027,Coffee Maker,Kitchen Appliances,15,120
+P028,Robot Vacuum,Smart Devices,9,500
+P029,Graphics Tablet,Computers,11,350
+P030,Digital Photo Frame,Home Entertainment,14,180
+P031,Electric Kettle,Kitchen Appliances,10,60
+P032,Blender,Kitchen Appliances,12,80
+P033,Toaster,Kitchen Appliances,15,45
+P034,Dishwasher,Home Appliances,5,600
+P035,Refrigerator,Home Appliances,4,1200
+P036,Washing Machine,Home Appliances,6,700
+P037,Air Conditioner,Home Appliances,8,800
+P038,Heater,Home Appliances,10,150
+P039,Ceiling Fan,Home Appliances,20,90
+P040,Laptop Stand,Accessories,25,30
+P041,Phone Case,Accessories,40,20
+P042,Screen Protector,Accessories,35,10
+P043,HDMI Cable,Accessories,50,15
+P044,USB Hub,Accessories,30,25
+P045,Portable Hard Drive,Storage Devices,20,90
+P046,Laptop Bag,Accessories,15,40
+P047,Smartphone Stand,Accessories,22,25
+P048,Car Charger,Accessories,18,15
+P049,Travel Adapter,Accessories,35,10
+P050,Cable Organizer,Accessories,45,20
+P052,SmartTV,Home Applicances,5,2

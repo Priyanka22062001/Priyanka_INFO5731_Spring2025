@@ -1,0 +1,51 @@
+Flight Number,Origin,Destination,Departure Date,Total Seats,Reserved Seats
+F001,Los Angeles,New York,3/1/2025,200,50
+F002,Chicago,Miami,3/2/2025,150,75
+F003,Dallas,San Francisco,3/3/2025,100,25
+F004,Boston,Seattle,3/5/2025,250,100
+F005,New York,Los Angeles,3/6/2025,300,150
+F006,Denver,Atlanta,3/7/2025,180,60
+F007,San Diego,Chicago,3/8/2025,220,90
+F008,Houston,Las Vegas,3/9/2025,280,110
+F009,Philadelphia,Orlando,3/10/2025,190,40
+F010,Phoenix,Washington DC,3/11/2025,160,70
+F011,Seattle,Boston,3/12/2025,240,130
+F012,San Francisco,New Orleans,3/13/2025,210,50
+F013,Atlanta,Los Angeles,3/14/2025,170,20
+F014,Chicago,Dallas,3/15/2025,300,90
+F015,Miami,Denver,3/16/2025,150,60
+F016,Las Vegas,Houston,3/17/2025,220,75
+F017,New York,Chicago,3/18/2025,180,40
+F018,Philadelphia,Seattle,3/19/2025,200,30
+F019,Boston,Los Angeles,3/20/2025,250,100
+F020,Phoenix,Orlando,3/21/2025,160,80
+F021,San Diego,Dallas,3/22/2025,190,70
+F022,Atlanta,San Francisco,3/23/2025,240,120
+F023,New Orleans,New York,3/24/2025,210,50
+F024,Houston,Chicago,3/25/2025,300,90
+F025,Seattle,Phoenix,3/26/2025,180,30
+F026,Los Angeles,Denver,3/27/2025,250,110
+F027,Dallas,Atlanta,3/28/2025,100,10
+F028,Miami,Boston,3/29/2025,150,65
+F029,Chicago,Seattle,3/30/2025,220,85
+F030,Orlando,Los Angeles,3/31/2025,180,55
+F031,Phoenix,Dallas,4/1/2025,200,40
+F032,Las Vegas,New York,4/2/2025,240,130
+F033,Atlanta,Chicago,4/3/2025,160,20
+F034,San Diego,Orlando,4/4/2025,190,60
+F035,New York,Denver,4/5/2025,150,35
+F036,Philadelphia,San Francisco,4/6/2025,210,75
+F037,Boston,Houston,4/7/2025,300,150
+F038,Los Angeles,New Orleans,4/8/2025,180,10
+F039,Seattle,Miami,4/9/2025,250,100
+F040,Dallas,Phoenix,4/10/2025,200,60
+F041,Chicago,Los Angeles,4/11/2025,220,90
+F042,San Francisco,Las Vegas,4/12/2025,170,50
+F043,Denver,Atlanta,4/13/2025,300,120
+F044,New York,Boston,4/14/2025,150,30
+F045,Houston,Seattle,4/15/2025,180,20
+F046,Orlando,Dallas,4/16/2025,190,40
+F047,Phoenix,Chicago,4/17/2025,240,80
+F048,Las Vegas,Miami,4/18/2025,200,50
+F049,Atlanta,New York,4/19/2025,250,90
+F050,San Diego,San Francisco,4/20/2025,180,70
